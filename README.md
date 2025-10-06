@@ -5,6 +5,8 @@ A board hosting pogo pins
 
 This project is a board hosting a couple of pogo pins intended to supply power to structures and other scale models.
 
+The board has a diameter of 29 mm intended to be mounted in a 30 mm hole. The distance between the pogo pins is 10 mm.
+
 For more information, visit the [project homepage](https://larsskj.org/projects/larsskj-014).
 
 ![3D image](larsskj-014.3d.png)
