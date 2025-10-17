@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "larsskj-014")
-		(date "2025-10-06")
-		(rev "01")
+		(date "2025-10-17")
+		(rev "02")
 		(company "Lars Skjærlund")
 		(comment 4 "A board to provide power to scale models using pogo pins.")
 	)
