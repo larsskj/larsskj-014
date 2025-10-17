@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "6769ee62-a0fb-4975-af38-da378fcc4d0d")
 	(paper "A4")
+	(title_block
+		(title "larsskj-014")
+		(date "2025-10-06")
+		(rev "01")
+		(company "Lars Skjærlund")
+		(comment 4 "A board to provide power to scale models using pogo pins.")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
