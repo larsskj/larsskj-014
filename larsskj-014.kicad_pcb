@@ -529,7 +529,6 @@
 			(at 0 -3 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "ce74c3be-a349-4b1a-a2d9-461e40c40130")
 			(effects
 				(font
@@ -550,7 +549,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590892068468711424"
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -563,7 +562,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -590,7 +589,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "e032f3df-30da-4b52-a641-257966aad4fd")
+			(uuid "d2d91c35-644b-45df-bb69-fbf09395653e")
 		)
 		(fp_circle
 			(center 0 0)
@@ -601,7 +600,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "7bc02268-76cd-4b6c-ad48-35e39e0fbe62")
+			(uuid "9db81391-762e-45be-b438-d7d0c6889cd8")
 		)
 		(fp_circle
 			(center 0 0)
@@ -612,7 +611,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "d56b2c46-68fd-4e99-ab24-4b6f6b931863")
+			(uuid "cd2170cc-317d-4990-83ef-594889ca4332")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 3 0)
@@ -638,7 +637,7 @@
 			(uuid "324591ef-45a9-4bde-b93a-620b4b72e453")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lars/Nextcloud/KiCad/FreeCad/Pogo Pin.step"
+		(model "${KIPRJMOD}/FreeCad/Pogo Pin.step"
 			(offset
 				(xyz 0 0 -1.5)
 			)
@@ -1060,7 +1059,6 @@
 			(at 0 -3 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "1b2f846c-4374-47e1-9e84-76cadad702ee")
 			(effects
 				(font
@@ -1081,7 +1079,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590892068468711424"
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1094,7 +1092,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1121,7 +1119,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "de7fd1d2-aa16-4981-b70a-6863c4f81b85")
+			(uuid "e53373b6-656e-4e71-9081-6cf31c7af1ee")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1132,7 +1130,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "d8ddc50b-f116-4df8-9960-6d4b4778c94c")
+			(uuid "e8a02b23-f6ea-4736-9e74-7891952e46fd")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1143,7 +1141,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "c3fc932c-49d1-4090-91ed-73872e574668")
+			(uuid "e61e3397-9406-473e-80c4-f8eed233636d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 3 0)
@@ -1169,7 +1167,7 @@
 			(uuid "56780455-96fc-4fad-8b91-685f3840af7c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lars/Nextcloud/KiCad/FreeCad/Pogo Pin.step"
+		(model "${KIPRJMOD}/FreeCad/Pogo Pin.step"
 			(offset
 				(xyz 0 0 -1.5)
 			)
