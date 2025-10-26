@@ -749,6 +749,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5157269"
+			(at 160.02 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5778fb3-6910-4255-8158-20347266dddd")
 		)
@@ -806,6 +815,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 160.02 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5157269"
 			(at 160.02 96.52 0)
 			(effects
 				(font
